@@ -1,0 +1,20 @@
+css4 and css6 and css4 and project and classes do it make notes of it ok
+ .card hover{translate y(10px)}
+transition in box where to apply where to apply width or height with time duration
+.box:hover{background color:yellow}
+transform propert in scale y or x inside hover property
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: turquoise;
+    margin-top: 100px;
+    transition: transform 3s;
+}
+
+.box2:hover{
+    /* transform: skew(30deg, 30deg); */
+    /* transform: rotate(30deg); */
+    transform: translate(150px);
+    /* transform: scale(3, 3); */
+}
