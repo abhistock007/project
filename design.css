@@ -1,0 +1,23 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+    transition: width 1s ease-in-out 1s, height 1s ease-in-out 1s;
+    margin: 50px 50px 50px 50px;
+}
+
+.box:hover{
+    width: 300px;
+    height: 300px;
+    background-color: tomato;
+}
+
+h1{font-size: 50px;
+    color: tomato;
+    }
+
+h1:hover{
+
+    font-size: 80px;
+    color: turquoise;
+}
